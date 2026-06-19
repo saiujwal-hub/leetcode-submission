@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0242-valid-anagram/) | Easy |
 ## Array
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0217-contains-duplicate/) | Easy |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0283-move-zeroes/) | Easy |
 ## Math
