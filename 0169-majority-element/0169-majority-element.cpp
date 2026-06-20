@@ -8,15 +8,13 @@ public:
         }
      int m=0;
          for(auto it:mp)
-         {m=max(m,it.second);
-
-         }
-         for(auto it:mp)
-         {if(m==it.second)
+         {if(it.second >nums.size()/2)
          {
             return it.first;
+
          }
 
          }return -1;
+         
     }
 };
