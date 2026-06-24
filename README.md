@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0242-valid-anagram/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saiujwal-hub/leetcode-submission/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
