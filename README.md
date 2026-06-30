@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0217-contains-duplicate/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
