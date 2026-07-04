@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -120,5 +121,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0704-binary-search](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
