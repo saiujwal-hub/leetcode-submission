@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0242-valid-anagram/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0704-binary-search/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
