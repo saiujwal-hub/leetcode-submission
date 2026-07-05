@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0242-valid-anagram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
