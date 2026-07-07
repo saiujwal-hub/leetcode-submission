@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0205-isomorphic-strings/) | Easy |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0205-isomorphic-strings/) | Easy |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
