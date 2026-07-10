@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0242-valid-anagram/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0283-move-zeroes/) | Easy |
