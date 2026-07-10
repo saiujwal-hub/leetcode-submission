@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saiujwal-hub/leetcode-submission/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,9 +155,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0704-binary-search/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -172,4 +177,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
