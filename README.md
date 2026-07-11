@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saiujwal-hub/leetcode-submission/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/saiujwal-hub/leetcode-submission/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
